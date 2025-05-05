@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgroCryptoGit/qiskit/main/assets/agrocrypto_quantum_banner.svg" alt="AgroCrypto Quantum Governance" width="100%" />
+</p>
+
 # AgroCrypto Labs
 [![Crates.io](https://img.shields.io/crates/v/agrocrypto-core.svg)](https://crates.io/crates/agrocrypto-core)
 [![License: MIT OR Apache-2.0](https://img.shields.io/crates/l/agrocrypto-core)](https://opensource.org/licenses)
